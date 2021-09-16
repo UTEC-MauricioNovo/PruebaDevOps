@@ -1,1 +1,23 @@
-esto es un feedback
+Feedback
+
+En esta materia me pareció demasiada abarcativa para el poco tiempo que tiene para su ejecución.
+Viendo el contexto del grupo, el cual cerramos el Semestre 7 y una semana después estabamos comenzando el Semestre 8 y con esto el comienzo de la ejecución del Proyecto Final. 
+Entiendo que la idea es dar un amplio pantallazo de todo, pero fue mucha información en un momento complejo. Solamente de ver la cantidad de cosas que se subian a la plataforma ya generaba un cansancio mental. 
+Si tuviera que proponer como sería la UC para el proximo grupo sería de la siguiente forma: 
+Intro DevOps:
+Semana 1, 
+material de Intro
+
+Semana 2
+material sobre profundización de DevOps (material VC semena 2 y 3)
+
+Semana 3
+Contenedores
+
+Taller (enfocaria a lo más practico posbile, encaminando a la defensa de la UC)
+Instalación de Docker
+Integración Jenkins, Git, etc
+
+# Lo de python estuvo bueno, pero sería mas disfrutable desde una optativa, ya que quedó medio perdido entre todo. 
+
+Entiendo que es la primera vez que se dicta la materia y si bien me pareció mucho, creo que hicieron un muy buen trabajo dado a que este formato no existia. Felicitaciones! 
